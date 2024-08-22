@@ -1,7 +1,10 @@
 Flask
-torch
+fastapi
+torch==2.4.0
 transformers
 numpy
 nltk==3.6.2
 requests==2.26.0
+aiosqlite
+aiofiles
 gunicorn
