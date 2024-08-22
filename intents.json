@@ -1,0 +1,166 @@
+{"intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi", 
+        "Hello", 
+        "Hey", 
+        "Good day", 
+        "Greetings", 
+        "Hi there", 
+        "Hello there"
+      ],
+      "responses": [
+        "Welcome, Let's embark on a journey to empower young minds with knowledge and values, one insightful lesson at a time.", 
+        "Welcome! Let's navigate the world of education together and inspire the leaders of tomorrow.", 
+        "Hello! Ready to discover the power of knowledge and values with INFACT?", 
+        "Greetings! Let's make learning engaging and meaningful together."
+      ]
+    },
+    {
+      "tag": "course_details",
+      "patterns": [
+        "Tell me about the GK course", 
+        "What is included in the values education?", 
+        "Details about your courses", 
+        "What do you teach in GK?", 
+        "What values do you teach?", 
+        "Can you describe your programs?"
+      ],
+      "responses": [
+        "Our GK course includes engaging and meaningful content that helps students explore the world, ask questions, and connect classroom lessons to everyday life.",
+        "Our values education program is designed to instill important life values such as integrity, empathy, resilience, and teamwork, laying the foundation for responsible and compassionate global citizens.",
+        "We offer a comprehensive GK course that bridges the gap between classroom learning and the real world, fostering curiosity and critical thinking.",
+        "Our values education program focuses on important life values, preparing students to be responsible and empathetic members of society."
+      ]
+    },
+    {
+      "tag": "mission",
+      "patterns": [
+        "What is your mission?", 
+        "Tell me about your mission", 
+        "What drives INFACT?", 
+        "What is INFACT's mission?", 
+        "Why does INFACT exist?"
+      ],
+      "responses": [
+        "Our mission is to bridge the gap between classroom learning and the real world by fostering curiosity, critical thinking, and instilling values that guide students throughout their lives.",
+        "INFACT's mission is to provide education that goes beyond memorizing facts, focusing on connecting lessons to real-world relevance and nurturing important life values.",
+        "We aim to empower students with knowledge and values, helping them become curious, critical thinkers and compassionate global citizens."
+      ]
+    },
+    {
+      "tag": "values_education",
+      "patterns": [
+        "What values do you teach?", 
+        "Tell me about your values education program", 
+        "What is included in your values curriculum?", 
+        "How do you teach values?", 
+        "What life values do you focus on?"
+      ],
+      "responses": [
+        "Our values education program is designed to instill important life values such as integrity, empathy, resilience, and teamwork.",
+        "We focus on teaching values like integrity, empathy, resilience, and teamwork, which are crucial for developing responsible and compassionate global citizens.",
+        "Our program emphasizes the importance of values in everyday life, helping students understand and practice integrity, empathy, resilience, and teamwork."
+      ]
+    },
+    {
+      "tag": "unique_approach",
+      "patterns": [
+        "What makes your approach unique?", 
+        "How is INFACT different?", 
+        "Tell me about your unique approach", 
+        "What is unique about your teaching?", 
+        "How do you connect classroom lessons to the real world?"
+      ],
+      "responses": [
+        "Our unique approach goes beyond rote learning by connecting classroom lessons to real-world relevance, helping students see the importance of what they learn.",
+        "We empower students to explore the world, ask questions, and develop a deeper understanding of how knowledge connects to their everyday lives.",
+        "Our carefully curated GK content makes learning engaging and meaningful, fostering curiosity and critical thinking."
+      ]
+    },
+    {
+      "tag": "enrollment",
+      "patterns": [
+        "How can I enroll my child?", 
+        "What is the enrollment process?", 
+        "How do I sign up?", 
+        "How to enroll?", 
+        "How can I join your programs?"
+      ],
+      "responses": [
+        "You can enroll your child by visiting our website and filling out the enrollment form. If you have any questions, our support team is here to help!",
+        "To sign up for our programs, please visit our website and complete the enrollment process. We look forward to welcoming your child to INFACT!",
+        "Enrollment is easy! Just go to our website, fill out the form, and our team will guide you through the next steps."
+      ]
+    },
+    {
+      "tag": "support",
+      "patterns": [
+        "I need help", 
+        "Can you assist me?", 
+        "I have a question", 
+        "How can I get support?", 
+        "I need assistance"
+      ],
+      "responses": [
+        "We're here to help! Please let us know what you need assistance with, and our support team will get back to you as soon as possible.",
+        "If you have any questions or need help, feel free to reach out to our support team. We're always ready to assist you!",
+        "You can contact our support team through our website or by phone. We're here to ensure you have a great experience with INFACT."
+      ]
+    },
+    {
+      "tag": "contact",
+      "patterns": [
+        "How can I contact you?", 
+        "What is your contact information?", 
+        "How do I reach you?", 
+        "Contact details", 
+        "How to get in touch?"
+      ],
+      "responses": [
+        "You can contact us through our website's contact form, or reach us by phone or email. All our contact details are available on our website.",
+        "Feel free to get in touch with us via our website, phone, or email. We're here to answer any questions you may have!",
+        "Our contact information is listed on our website. You can reach out to us anytime for any inquiries or support."
+      ]
+    },
+    {
+      "tag": "salesguru",
+      "patterns": [
+        "vinoth","who is vinoth?"
+      ],
+      "responses": [
+        "vinoth is a sales guru. he makes almost every principle as his fan"
+      ]
+    },
+    {
+      "tag": "cofounder",
+      "patterns": [
+        "prem","who is prem"
+      ],
+      "responses": [
+        "prem is the cofounder of INFACT. he is the financial boss and the guy who knows how money works"
+      ]
+    },
+    {
+      "tag": "positivevibe",
+      "patterns": [
+        "anandh","who is anandh?"
+      ],
+      "responses": [
+        "anandh is a positive vibe creator, who love to explore every department. he is the most trustworthy person in infact"
+      ]
+    },
+    {
+      "tag": "salesguru 2",
+      "patterns": [
+        "vijay","who is vijay?"
+      ],
+      "responses": [
+        
+        "vijay is the next sales superstar in making. who effortlessly travels across every location"
+      ]
+    }
+
+  ]
+}

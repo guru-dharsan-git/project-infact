@@ -1,0 +1,7 @@
+Flask
+torch
+transformers
+numpy
+nltk==3.6.2
+requests==2.26.0
+gunicorn
